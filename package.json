@@ -1,7 +1,7 @@
 {
-  "homepage": "https://petenattapon.github.io/Mith_deploy/",
   "name": "meatavatar",
   "version": "0.1.0",
+  "homepage": "https://petenattapon.github.io/Mith_deploy",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d build -o"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
