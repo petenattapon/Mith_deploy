@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mith_deploy/static/css/main.c277b279.css",
+    "main.js": "/Mith_deploy/static/js/main.0204e6ec.js",
+    "static/js/787.7ee5914c.chunk.js": "/Mith_deploy/static/js/787.7ee5914c.chunk.js",
+    "index.html": "/Mith_deploy/index.html",
+    "main.c277b279.css.map": "/Mith_deploy/static/css/main.c277b279.css.map",
+    "main.0204e6ec.js.map": "/Mith_deploy/static/js/main.0204e6ec.js.map",
+    "787.7ee5914c.chunk.js.map": "/Mith_deploy/static/js/787.7ee5914c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c277b279.css",
+    "static/js/main.0204e6ec.js"
+  ]
+}
